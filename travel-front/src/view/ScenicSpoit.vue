@@ -2,36 +2,23 @@
   <div class="container">
     <div class="row" style="height:5px"></div>
     <div class="row">
-      <div class="w-100"><Navigate></Navigate></div>
-    </div>
-
-    <div class="row" style="height:40px"></div>
-    <div class="row">
-      <div class="w-100"><Banner></Banner></div>
-    </div>
-
-    <div class="row" style="height:40px"></div>
-    <div class="row">
-      <div class="w-100"><ScenicSpoit></ScenicSpoit></div>
-    </div>
-
-    <div class="row" style="height:40px"></div>
-    <div class="row">
-      <div class="w-100"><Hotel></Hotel></div>
+      <div class="w-100">
+        <ScenicList></ScenicList>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
   import Navigate from '../components/navigate'
-  import Banner from '../components/banner'
-  import ScenicSpoit from '../components/scenic_spoit'
-  import Hotel from '../components/hotel'
+  import ScenicList from '../components/scenic_list'
+
 
   export default {
-    name: 'Index',
+    name: 'ScenicSpoit',
     components: {
-      Navigate, Banner, ScenicSpoit, Hotel
+      ScenicList,
+      Navigate
     },
     data() {
       return {}
