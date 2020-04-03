@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11d2fe05-b964-4248-8f02-e9302c052f89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/travel-front/src/assets/style/common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/assets/style/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/assets/style/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/assets/style/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/assets/style/theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/components/banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/components/footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/components/hotel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/components/navigate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/components/scenic_spoit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel-front/src/view/ScenicSpoit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/travel-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/travel-front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-front/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-front/src/components/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/travel-front/src/view/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-front/src/components/Timer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/travel-front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-front/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/travel-front/src/router/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository\maven" />
+        <option name="mavenHome" value="D:/maven/3.5.0" />
+        <option name="userSettingsFile" value="D:\maven\3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/travel-front/package.json" />
+    <dismissed value="$PROJECT_DIR$/../xmall-front-master/package.json" />
+  </component>
+  <component name="ProjectId" id="1ZwWkcXCxZQ0Uo9F56FCj14IZfK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/travel-front/src/view" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\travel-kang\travel-front\src\view" />
+      <recent name="E:\workspace\travel-kang\travel-front\src\components" />
+      <recent name="E:\workspace\travel-kang\travel-front\static\img" />
+      <recent name="E:\workspace\travel-kang\travel-front\src\assets\style" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\travel-kang\travel-front\src\view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="travel-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.panzhihua.travel.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d2fe05-b964-4248-8f02-e9302c052f89" name="Default Changelist" comment="" />
+      <created>1585750780058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585750780058</updated>
+      <workItem from="1585750875162" duration="6535000" />
+      <workItem from="1585834472081" duration="13376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#ESLint" timestamp="1585836107034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1585836107034" />
+    <state x="538" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585843067334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585843067334" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1585751118713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1585751118713" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585751692677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585751692677" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585755007339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585755007339" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585755007339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585755007339" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585755007339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585755007339" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585755007339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585755007339" />
+    <state x="439" y="112" width="671" height="599" key="NewModule_or_Project.wizard" timestamp="1585751695928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="112" width="671" height="599" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1585751695928" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1585838846664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585838846664" />
+    <state x="462" y="144" width="611" height="536" key="find.popup" timestamp="1585846325779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585846325779" />
+    <state x="498" y="205" key="git4idea.merge.GitPullDialog" timestamp="1585834501125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="205" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1585834501125" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585838844111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585838844111" />
+  </component>
+</project>

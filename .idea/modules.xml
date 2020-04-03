@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/travel-api/travel-api.iml" filepath="$PROJECT_DIR$/travel-api/travel-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/travel-kang.iml" filepath="$PROJECT_DIR$/.idea/travel-kang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vue/vue.iml" filepath="$PROJECT_DIR$/../vue/vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-front-master/xmall-front-master.iml" filepath="$PROJECT_DIR$/../xmall-front-master/xmall-front-master.iml" />
+    </modules>
+  </component>
+</project>
